@@ -57,6 +57,8 @@ The practical frequency closely matches the theoretical frequency.
 •	Increasing R or C decreases frequency.
 •	Used in clock generation, LED flashing, and tone generation.
 ## Viva Questions
+
+````
 1.	What are the operating modes of 555 timer?
 Monostable, Astable, and Bistable.
 
@@ -75,3 +77,5 @@ Duty cycle = [(R1 + R2) / (R1 + 2R2)] × 100%
 Time period increases.
 Frequency decreases.
 Duty cycle increases.
+
+  ````
